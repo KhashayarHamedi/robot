@@ -16,3 +16,12 @@ requests
 
 # Logging
 loguru
+# Web UI Framework
+streamlit
+dash
+plotly
+dash-bootstrap-components
+
+# Advanced visualizations
+bokeh
+altair

@@ -1,0 +1,18 @@
+# Basic data handling
+pandas
+numpy
+
+# Financial data
+yfinance
+
+# Visualization
+matplotlib
+
+# Configuration
+python-dotenv
+
+# API requests
+requests
+
+# Logging
+loguru
